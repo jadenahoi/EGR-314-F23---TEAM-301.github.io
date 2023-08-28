@@ -8,8 +8,8 @@ Fall 2023
 ## Introduction
 
 Team Members
-* Samuel Barnett
 * Jaden Nahoi-Baricar
+* Samuel Barnett
 * Sivanee Naghichetty Premkumar
 * Amy Valencia
 * Houyu Zhang
