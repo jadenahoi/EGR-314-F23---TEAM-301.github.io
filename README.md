@@ -10,6 +10,6 @@ Jaden Nahoi-Baricar
 
 Sivanee Naghichetty Premkumar
 
-Amy Valencia
+Amy Joyce C. Valencia
 
 Houyu Zhang
